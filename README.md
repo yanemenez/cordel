@@ -1,7 +1,7 @@
 # Cordel 👒🏜️
  - Curso em Vídeo - Professor Gustavo Guanabara
 
-### Texto de Autoria Milton Duarte
+### Texto de Autoria de Milton Duarte
     https://www.recantodasletras.com.br/poesias/3186743
     
 <br>
